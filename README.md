@@ -1,17 +1,16 @@
-# Project Title
+# How to create Repository and fork it
 
 ## Forkthis Repo for Practice
 
-### Write your author name here. eg. By Nicole
+### By Amreen Khanam
 
 ### Description
 
-Create a description and fill it in here.
+first commit the file, create repository by clicking start Project and the go to codebaseacademy and click on fork this, then clone to get it on to your desktop by typing in git bash as git clone.
 
 ## Languages used
 
-What languages were used for this repo:
-List them
+Git commands    
 
 ### Known Bugs
 
